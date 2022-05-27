@@ -1,6 +1,6 @@
 import {semaforo, diaSemana, fatorial, sequenciaPar } from './services.js'
 import {Router} from 'express'
-import res from 'express/lib/response';
+
 
 
 const server = Router();
